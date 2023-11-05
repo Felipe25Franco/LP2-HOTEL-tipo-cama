@@ -1,0 +1,28 @@
+{
+ "tipoCama": [
+    {
+      "id": 1,
+      "titulo": "casal",
+      "descricao": "xxxxxxxxxxx",
+      "ocupantes": 2
+    },
+    {
+      "id": 2,
+      "titulo": "solteiro",
+      "descricao": "xxxxxxxxxxx",
+      "ocupantes": 1
+    },
+    {
+      "id": 3,
+      "titulo": "casal extragrande",
+      "descricao": "xxxxxxxxxxx",
+      "ocupantes": 2
+    },
+    {
+      "id": 4,
+      "titulo": "beliche",
+      "descricao": "xxxxxxxxxxx",
+      "ocupantes": 2
+    }
+  ]
+}
